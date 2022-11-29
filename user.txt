@@ -1,0 +1,6 @@
+000000001|TypeA|Ant|Test1|ant.cpe@mail.kmutt.ac.th|0867896541|300000
+000000002|TypeB|Bird|Test2|bird.cpe@mail.kmutt.ac.th|0841852963|100
+000000003|TypeC|Cat|Test3|cat.cpe@mail.kmutt.ac.th|0897485212|200
+000000004|TypeD|Dog|Test4|dog.cpe@mail.kmutt.ac.th|0819638523|300
+000000005|TypeE|Egg|Test5|egg.cpe@mail.kmutt.ac.th|0827894564|400
+000000006|TypeF|Fish|Test6|fish.cpe@mail.kmutt.ac.th|0836547895|500

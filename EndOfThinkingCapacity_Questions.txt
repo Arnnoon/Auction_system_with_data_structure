@@ -1,0 +1,7 @@
+Question
+- What server should we use to collect all information in the auction?
+- We should use data structure. What type of data are stored, stack or queue or etc.
+- What should we use to ensure safety in the auction site? ex. false information, hacker.
+- Is the writing language required to use C language?
+- What is the sample group for programming and how many people are using it?
+- How should we work it out, such as doing the server first, or sending the data to the server first or etc. (We would like to have a rough starting point for the project)
